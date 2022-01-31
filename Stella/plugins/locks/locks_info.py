@@ -34,6 +34,6 @@ __help__ = (
     "-> `/lock sticker`\n"
     "- You can lock/unlock multiple items by chaining them:\n"
     "-> `/lock sticker photo gif video`\n"
-    "- To allow forwards from a specific channel, eg `@StellaUpdates`, you can allowlist it. You can also use the ID:\n"
-    "-> `/allowlist @StellaUpdates`"
+    "- To allow forwards from a specific channel, eg `@Emcee_Updates`, you can allowlist it. You can also use the ID:\n"
+    "-> `/allowlist @Emcee_Updates`"
     )
